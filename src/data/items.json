@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Albert Camus",
+    "price": 10.99,
+    "imgUrl": "/imgs/ac.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Hobbits",
+    "price": 1199,
+    "imgUrl": "/imgs/hobbits.jpg"
+  },
+  {
+    "id": 3,
+    "name": "LOTR",
+    "price": 1.05,
+    "imgUrl": "/imgs/lotr.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Star Wars",
+    "price": 14000,
+    "imgUrl": "/imgs/sw.jpg"
+  }
+]
